@@ -29,18 +29,18 @@
     > [!TIP]
     > Image after alert with a new line between
     
-    ![cat image](../media/cat1.jpg)
+    ![cat image](../media/cat1.jpeg)
 
     > [!TIP]
     > Image after alert. NO new line between
     ![cat image](../media/cat1.jpg)
 
-    ![cat image](../media/cat2.jpg)
+    ![cat image](../media/cat2.jpeg)
 
     > [!NOTE]
     > Image is before this alert in a list with new line between
 
-    ![cat image](../media/cat2.jpg)
+    ![cat image](../media/cat2.jpeg)
     > [!NOTE]
     > Image is before this alert in a list with NO new line between 
 
